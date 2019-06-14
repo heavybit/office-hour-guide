@@ -2,7 +2,7 @@
 There’s a right way to take your developer and enterprise product to market. But it’s hard and constantly evolving. That’s why Heavybit’s Advisors are people with a current and successful track record of dev, enterprise or SaaS company success. Our Advisors help our member companies tackle their biggest challenges - namely, user acquisition, sales and scaling to the enterprise. 
 
 # How Can I Contribute?
-* Office Hours (2 hour block, morning): We ask advisors to block off one morning to speak on a specific topic area where current members need support and pre-brief the advisor. We then ask for additional feedback. 
+* *Office Hours* (2 hour block, morning): We ask advisors to block off one morning to speak on a specific topic area where current members need support and pre-brief the advisor. We then ask for additional feedback. 
 * Group Sessions (2 hour block, morning): We ask advisors to block off one morning and then ask for pre-event required reading, you offer a summary at the beginning of the session, and use the work session call as a roundtable for 4 founders to ask questions. 
 In return for this commitment, we offer group session and office hour advisors a chance to give back, a chance to see new technology as it emerges, and a chance to meet early stage portfolio companies. 
 
